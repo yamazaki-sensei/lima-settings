@@ -65,4 +65,4 @@ probes:
         exit 1
       fi
     hint: See "/var/log/cloud-init-output.log". in the guest
-disk: 60GiB
+disk: 30GiB
